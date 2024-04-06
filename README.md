@@ -1,4 +1,5 @@
 # CSS Challenge
+![](assets/images/CSSChallengeScreenshot.PNG)
 ## Context and Description
 This project was the final challenge of the "Try It: CSS Fundamentals" edX course. I was given an HTML file and required to add CSS styling to it so that it matched a given design. This was my first CSS course and first Web Project.
 ## How to run
